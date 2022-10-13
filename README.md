@@ -74,6 +74,8 @@ In the real-world depending upon the organization the data analysis phases defin
 
 ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=Seaborn)
 
+![GoogleColab](https://img.shields.io/badge/GoogleColab-orange?style=for-the-badge&logo=GoogleColab)
+
 ![--------------------------------------------------------------------------------------------](https://github.com/andreasbm/readme/blob/master/assets/lines/grass.png)
 
 ## 💶 Credits
