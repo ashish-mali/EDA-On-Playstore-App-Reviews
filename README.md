@@ -1,4 +1,4 @@
-# :microscope: Exploratory Data Analysis On Google Play Store Apps Reviews.
+<h1 align='center'> :microscope: Exploratory Data Analysis On Google Play Store Apps Reviews.<h1>
 
 ![--------------------------------------------------------------------------------------------](https://github.com/andreasbm/readme/blob/master/assets/lines/grass.png)
 
