@@ -1,4 +1,4 @@
-<h1>Exploratory Data Analysis On Google Play Store Apps Reviews.</h1>
+# :microscope: Exploratory Data Analysis On Google Play Store Apps Reviews.
 
 ![--------------------------------------------------------------------------------------------](https://github.com/andreasbm/readme/blob/master/assets/lines/grass.png)
 
@@ -84,6 +84,8 @@ Reach-out to me in following spaces.
 
 [![GitHub](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/ashish-mali)
 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abmali81292@gmail.com?subject=Hi "Hi!")
+
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/namaste_ashish)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-mali-a63594129/)
@@ -92,13 +94,13 @@ Reach-out to me in following spaces.
 
 ## 📚 References
 
-*	wikipedia
+*	Stackoverflow
 *	Python documentation
 *	Pandas documentation
 *	Seaborn documentation
-*	Stackoverflow
 *	Towards data science
 *	Statica
+*	wikipedia
 *	Google data analytics professional.
 
 ![--------------------------------------------------------------------------------------------](https://github.com/andreasbm/readme/blob/master/assets/lines/grass.png)
